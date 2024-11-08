@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Neural Networks and DataStax**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
