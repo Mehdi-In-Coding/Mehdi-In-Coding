@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **RAG models**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science** / **Machine Learning**
 
 - 📫 How to reach me **mbenayed09@gmail.com**
 
