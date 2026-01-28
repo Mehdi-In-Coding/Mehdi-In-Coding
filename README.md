@@ -24,6 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> 
@@ -48,37 +49,24 @@
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="40" height="40"/> 
   </a>
-
-
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
   </a>
-
-  <!-- Excel -->
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="40" height="40"/>
-</a>
-
-<!-- Apache Spark -->
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
-</a>
-
-<!-- Dataiku -->
-<a href="https://www.dataiku.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/dataiku/dataiku-icon.svg" alt="Dataiku" width="40" height="40"/>
-</a>
-
-<!-- AWS Academy -->
-<a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Academy" width="40" height="40"/>
-</a>
-
-<!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
-</a>
-
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="40" height="40"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
+  </a>
+  <a href="https://www.dataiku.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Dataiku-3776AB?style=for-the-badge&logo=dataiku&logoColor=white" alt="Dataiku"/>
+  </a>
+  <a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Academy" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
+  </a>
   
 </p>
 
