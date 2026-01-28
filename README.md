@@ -47,7 +47,33 @@
   </a> 
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="40" height="40"/> 
-  </a> 
+  </a>
+
+
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Excel-Workbook.svg" alt="Excel" width="40" height="40"/>
+  </a>
+
+  <!-- Apache Spark -->
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/apache-spark.svg" alt="Apache Spark" width="40" height="40"/>
+  </a>
+
+  <!-- Dataiku -->
+  <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/dataiku.svg" alt="Dataiku" width="40" height="40"/>
+  </a>
+
+  <!-- AWS / Amazon (AWS Academy) -->
+  <a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/amazonaws.svg" alt="AWS Academy" width="40" height="40"/>
+  </a>
+  
 </p>
 
 
