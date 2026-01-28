@@ -58,9 +58,6 @@
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
   </a>
-  <a href="https://www.dataiku.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Dataiku-3776AB?style=for-the-badge&logo=dataiku&logoColor=white" alt="Dataiku"/>
-  </a>
   <a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Academy" width="40" height="40"/>
   </a>
